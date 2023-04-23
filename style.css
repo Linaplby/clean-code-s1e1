@@ -49,7 +49,7 @@
   margin: 0 auto 0;
 }
 
-.section--new-task {
+.section-item {
   margin: 1em 0;
 }
 
@@ -152,7 +152,7 @@
 }
 
 /* New Task */
-.section--new-task .title-item {
+.section-item .title-item {
   display: block;
   margin: 0 0 20px;
 }
